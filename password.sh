@@ -9,4 +9,5 @@ password: $passwd
 
 cc
 
-
+echo "Thank you for using this program! :)"
+echo "Copyright by L4ma"
